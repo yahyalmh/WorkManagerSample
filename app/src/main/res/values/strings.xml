@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorkManagerSample</string>
+    <string name="one_time_request">Start One Time Work Request</string>
+    <string name="periodic_request">Start Periodic Work Request</string>
+    <string name="description">discription</string>
+    <string name="periodic_exp">download on image after click then download Once every 15 minutes</string>
+    <string name="onTime_exp">download on image for each click</string>
+</resources>
